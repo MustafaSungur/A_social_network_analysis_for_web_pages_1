@@ -11,3 +11,27 @@ tüm sayfalarda toplam kaç kere geçtiği (frekansı) ve 	kaç farklı web sayf
 zemberek kütüphanesi ile köklerine ayırdım. köklerine ayrılan kelimeler içinde ki stop words'leri filtreledikten sonra Words klasörü içinde ki text dosyalarına yazdırdım. 
 * Her bir text dosyası farklı sayfalardan alnın kelimelerdir.
 * Frekansları, kelimeleri text dosyalarından çekerek hesapladım.
+
+## Kullanlın Kütüphaneler
+- import re
+- import pandas as pd
+- import requests
+- from bs4 import BeautifulSoup
+- import os
+- import io
+- from urllib.parse import urljoin
+- import matplotlib.pyplot as plt
+- from zemberek import (
+    TurkishMorphology,
+)
+- from collections import defaultdict
+- from collections import Counter
+
+
+
+
+
+
+
+
+
