@@ -1,0 +1,7 @@
+
+Sitelerden Kelimeleri çekmek ve ayıklamak çoz uzun sürüyor. Bunun için soru_1.py dosyasındaki yorum satırına alınmış kısım da kelimeleri ayıkladıktan sonra
+zemberek kütüphanesi ile köklerine ayırdım. köklerine ayrılan kelimeler içinde ki stop words'leri filtreledikten sonra Words klasörü içinde ki text dosyalarına yazdırdım. 
+Her bir text dosyası farklı sayfalardan alnın kelimelerdir.
+Frekansları, kelimeleri text dosyalarından çekerek hesapladım.	
+
+Toplamda 320 web sayfasından 202748 kelime elde edildi. 
